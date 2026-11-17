@@ -1,0 +1,1051 @@
+{
+  "alcance": "Solo propuesta A, por instrucción del usuario",
+  "fecha": "2026-10-28",
+  "herramienta": "image_gen integrada",
+  "total": 20,
+  "imagenes": [
+    {
+      "id": "PL-01A",
+      "archivo": "foto-sin-logo/PL-01A_agente-solo-renovar.png",
+      "layout": "A",
+      "tamano": [
+        1080,
+        1350
+      ],
+      "texto_ok": true,
+      "zona_ok": true,
+      "candidatos": [
+        {
+          "force_pos": "arriba-centro",
+          "caja": [
+            510,
+            0,
+            890,
+            170
+          ],
+          "variante_logo": "blanco"
+        },
+        {
+          "force_pos": "arriba-centro",
+          "caja": [
+            300,
+            0,
+            680,
+            170
+          ],
+          "variante_logo": "blanco"
+        },
+        {
+          "force_pos": "arriba-izq",
+          "caja": [
+            90,
+            0,
+            470,
+            170
+          ],
+          "variante_logo": "blanco"
+        }
+      ],
+      "seleccion_logo": {
+        "force_pos": "arriba-centro",
+        "caja": [
+          510,
+          0,
+          890,
+          170
+        ],
+        "variante_logo": "blanco"
+      }
+    },
+    {
+      "id": "PL-02A",
+      "archivo": "foto-sin-logo/PL-02A_comparar-opciones.png",
+      "layout": "B",
+      "tamano": [
+        1080,
+        1350
+      ],
+      "texto_ok": true,
+      "zona_ok": true,
+      "candidatos": [
+        {
+          "force_pos": "arriba-centro",
+          "caja": [
+            300,
+            0,
+            680,
+            170
+          ],
+          "variante_logo": "color"
+        },
+        {
+          "force_pos": "arriba-centro",
+          "caja": [
+            510,
+            0,
+            890,
+            170
+          ],
+          "variante_logo": "color"
+        },
+        {
+          "force_pos": "arriba-izq",
+          "caja": [
+            90,
+            0,
+            470,
+            170
+          ],
+          "variante_logo": "color"
+        }
+      ],
+      "seleccion_logo": {
+        "force_pos": "arriba-centro",
+        "caja": [
+          300,
+          0,
+          680,
+          170
+        ],
+        "variante_logo": "color"
+      }
+    },
+    {
+      "id": "PL-03A",
+      "archivo": "foto-sin-logo/PL-03A_seguimiento-despues-firma.png",
+      "layout": "C",
+      "tamano": [
+        1080,
+        1350
+      ],
+      "texto_ok": true,
+      "zona_ok": true,
+      "candidatos": [
+        {
+          "force_pos": "abajo-der",
+          "caja": [
+            570,
+            1170,
+            950,
+            1340
+          ],
+          "variante_logo": "revisar (blanco/color/negro)"
+        },
+        {
+          "force_pos": "abajo-centro",
+          "caja": [
+            210,
+            1170,
+            590,
+            1340
+          ],
+          "variante_logo": "revisar (blanco/color/negro)"
+        }
+      ],
+      "seleccion_logo": {
+        "force_pos": "abajo-der",
+        "caja": [
+          570,
+          1170,
+          950,
+          1340
+        ],
+        "variante_logo": "negro (recomendación visual; comprobar al aplicar)"
+      }
+    },
+    {
+      "id": "PL-04A",
+      "archivo": "foto-sin-logo/PL-04A_negocio-equipo-patrimonio.png",
+      "layout": "D",
+      "tamano": [
+        1080,
+        1350
+      ],
+      "texto_ok": true,
+      "zona_ok": true,
+      "candidatos": [
+        {
+          "force_pos": "arriba-centro",
+          "caja": [
+            390,
+            0,
+            770,
+            170
+          ],
+          "variante_logo": "color"
+        },
+        {
+          "force_pos": "arriba-der",
+          "caja": [
+            600,
+            0,
+            980,
+            170
+          ],
+          "variante_logo": "color"
+        },
+        {
+          "force_pos": "arriba-centro",
+          "caja": [
+            180,
+            0,
+            560,
+            170
+          ],
+          "variante_logo": "color"
+        }
+      ],
+      "seleccion_logo": {
+        "force_pos": "arriba-centro",
+        "caja": [
+          390,
+          0,
+          770,
+          170
+        ],
+        "variante_logo": "color"
+      }
+    },
+    {
+      "id": "PL-05A",
+      "archivo": "foto-sin-logo/PL-05A_hace-cuanto-revisa.png",
+      "layout": "A",
+      "tamano": [
+        1080,
+        1350
+      ],
+      "texto_ok": true,
+      "zona_ok": true,
+      "candidatos": [
+        {
+          "force_pos": "arriba-centro",
+          "caja": [
+            180,
+            0,
+            560,
+            170
+          ],
+          "variante_logo": "blanco"
+        },
+        {
+          "force_pos": "arriba-centro",
+          "caja": [
+            390,
+            0,
+            770,
+            170
+          ],
+          "variante_logo": "blanco"
+        },
+        {
+          "force_pos": "arriba-der",
+          "caja": [
+            600,
+            0,
+            980,
+            170
+          ],
+          "variante_logo": "blanco"
+        }
+      ],
+      "seleccion_logo": {
+        "force_pos": "arriba-centro",
+        "caja": [
+          180,
+          0,
+          560,
+          170
+        ],
+        "variante_logo": "blanco"
+      }
+    },
+    {
+      "id": "PL-06A",
+      "archivo": "foto-sin-logo/PL-06A_negocio-no-puede-esperar.png",
+      "layout": "B",
+      "tamano": [
+        1080,
+        1350
+      ],
+      "texto_ok": true,
+      "zona_ok": true,
+      "candidatos": [
+        {
+          "force_pos": "arriba-izq",
+          "caja": [
+            0,
+            0,
+            380,
+            170
+          ],
+          "variante_logo": "color"
+        },
+        {
+          "force_pos": "arriba-centro",
+          "caja": [
+            510,
+            0,
+            890,
+            170
+          ],
+          "variante_logo": "color"
+        },
+        {
+          "force_pos": "arriba-centro",
+          "caja": [
+            210,
+            0,
+            590,
+            170
+          ],
+          "variante_logo": "color"
+        }
+      ],
+      "seleccion_logo": {
+        "force_pos": "arriba-izq",
+        "caja": [
+          0,
+          0,
+          380,
+          170
+        ],
+        "variante_logo": "color"
+      }
+    },
+    {
+      "id": "PL-07A",
+      "archivo": "foto-sin-logo/PL-07A_punto-por-punto.png",
+      "layout": "C",
+      "tamano": [
+        1080,
+        1350
+      ],
+      "texto_ok": true,
+      "zona_ok": true,
+      "candidatos": [
+        {
+          "force_pos": "abajo-der",
+          "caja": [
+            630,
+            1170,
+            1010,
+            1340
+          ],
+          "variante_logo": "color"
+        },
+        {
+          "force_pos": "abajo-centro",
+          "caja": [
+            360,
+            1170,
+            740,
+            1340
+          ],
+          "variante_logo": "color"
+        },
+        {
+          "force_pos": "abajo-izq",
+          "caja": [
+            150,
+            1170,
+            530,
+            1340
+          ],
+          "variante_logo": "color"
+        }
+      ],
+      "seleccion_logo": {
+        "force_pos": "abajo-der",
+        "caja": [
+          630,
+          1170,
+          1010,
+          1340
+        ],
+        "variante_logo": "color"
+      }
+    },
+    {
+      "id": "PL-08A",
+      "archivo": "foto-sin-logo/PL-08A_soluciones-claras.png",
+      "layout": "D",
+      "tamano": [
+        1080,
+        1350
+      ],
+      "texto_ok": true,
+      "zona_ok": true,
+      "candidatos": [
+        {
+          "force_pos": "arriba-centro",
+          "caja": [
+            240,
+            0,
+            620,
+            170
+          ],
+          "variante_logo": "color"
+        },
+        {
+          "force_pos": "arriba-centro",
+          "caja": [
+            450,
+            0,
+            830,
+            170
+          ],
+          "variante_logo": "color"
+        },
+        {
+          "force_pos": "arriba-der",
+          "caja": [
+            660,
+            0,
+            1040,
+            170
+          ],
+          "variante_logo": "color"
+        }
+      ],
+      "seleccion_logo": {
+        "force_pos": "arriba-centro",
+        "caja": [
+          240,
+          0,
+          620,
+          170
+        ],
+        "variante_logo": "color"
+      }
+    },
+    {
+      "id": "PL-09A",
+      "archivo": "foto-sin-logo/PL-09A_tu-negocio-crecio.png",
+      "layout": "A",
+      "tamano": [
+        1080,
+        1350
+      ],
+      "texto_ok": true,
+      "zona_ok": true,
+      "candidatos": [
+        {
+          "force_pos": "arriba-centro",
+          "caja": [
+            510,
+            0,
+            890,
+            170
+          ],
+          "variante_logo": "blanco"
+        },
+        {
+          "force_pos": "arriba-centro",
+          "caja": [
+            180,
+            0,
+            560,
+            170
+          ],
+          "variante_logo": "blanco"
+        },
+        {
+          "force_pos": "arriba-der",
+          "caja": [
+            570,
+            180,
+            950,
+            350
+          ],
+          "variante_logo": "blanco"
+        }
+      ],
+      "seleccion_logo": {
+        "force_pos": "arriba-centro",
+        "caja": [
+          510,
+          0,
+          890,
+          170
+        ],
+        "variante_logo": "blanco"
+      }
+    },
+    {
+      "id": "PL-10A",
+      "archivo": "foto-sin-logo/PL-10A_asesor-que-te-escucha.png",
+      "layout": "B",
+      "tamano": [
+        1080,
+        1350
+      ],
+      "texto_ok": true,
+      "zona_ok": true,
+      "candidatos": [
+        {
+          "force_pos": "arriba-centro",
+          "caja": [
+            450,
+            0,
+            830,
+            170
+          ],
+          "variante_logo": "color"
+        },
+        {
+          "force_pos": "arriba-der",
+          "caja": [
+            660,
+            0,
+            1040,
+            170
+          ],
+          "variante_logo": "color"
+        },
+        {
+          "force_pos": "arriba-izq",
+          "caja": [
+            120,
+            0,
+            500,
+            170
+          ],
+          "variante_logo": "color"
+        }
+      ],
+      "seleccion_logo": {
+        "force_pos": "arriba-centro",
+        "caja": [
+          450,
+          0,
+          830,
+          170
+        ],
+        "variante_logo": "color"
+      }
+    },
+    {
+      "id": "PL-11A",
+      "archivo": "foto-sin-logo/PL-11A_antes-durante-despues.png",
+      "layout": "C",
+      "tamano": [
+        1080,
+        1350
+      ],
+      "texto_ok": true,
+      "zona_ok": true,
+      "candidatos": [
+        {
+          "force_pos": "abajo-izq",
+          "caja": [
+            0,
+            1170,
+            380,
+            1340
+          ],
+          "variante_logo": "blanco"
+        },
+        {
+          "force_pos": "abajo-der",
+          "caja": [
+            570,
+            1170,
+            950,
+            1340
+          ],
+          "variante_logo": "revisar (blanco/color/negro)"
+        },
+        {
+          "force_pos": "abajo-centro",
+          "caja": [
+            210,
+            1170,
+            590,
+            1340
+          ],
+          "variante_logo": "blanco"
+        }
+      ],
+      "seleccion_logo": {
+        "force_pos": "abajo-izq",
+        "caja": [
+          0,
+          1170,
+          380,
+          1340
+        ],
+        "variante_logo": "blanco"
+      }
+    },
+    {
+      "id": "PL-12A",
+      "archivo": "foto-sin-logo/PL-12A_cobertura-adecuada.png",
+      "layout": "D",
+      "tamano": [
+        1080,
+        1350
+      ],
+      "texto_ok": true,
+      "zona_ok": true,
+      "candidatos": [
+        {
+          "force_pos": "arriba-izq",
+          "caja": [
+            0,
+            0,
+            380,
+            170
+          ],
+          "variante_logo": "color"
+        },
+        {
+          "force_pos": "arriba-centro",
+          "caja": [
+            330,
+            0,
+            710,
+            170
+          ],
+          "variante_logo": "color"
+        },
+        {
+          "force_pos": "arriba-der",
+          "caja": [
+            540,
+            0,
+            920,
+            170
+          ],
+          "variante_logo": "color"
+        }
+      ],
+      "seleccion_logo": {
+        "force_pos": "arriba-izq",
+        "caja": [
+          0,
+          0,
+          380,
+          170
+        ],
+        "variante_logo": "color"
+      }
+    },
+    {
+      "id": "PL-13A",
+      "archivo": "foto-sin-logo/PL-13A_soluciones-no-excusas-v2.png",
+      "layout": "A",
+      "tamano": [
+        1080,
+        1350
+      ],
+      "texto_ok": true,
+      "zona_ok": true,
+      "candidatos": [
+        {
+          "force_pos": "arriba-izq",
+          "caja": [
+            90,
+            0,
+            470,
+            170
+          ],
+          "variante_logo": "blanco"
+        },
+        {
+          "force_pos": "arriba-centro",
+          "caja": [
+            300,
+            0,
+            680,
+            170
+          ],
+          "variante_logo": "blanco"
+        },
+        {
+          "force_pos": "arriba-centro",
+          "caja": [
+            510,
+            0,
+            890,
+            170
+          ],
+          "variante_logo": "blanco"
+        }
+      ],
+      "seleccion_logo": {
+        "force_pos": "arriba-izq",
+        "caja": [
+          90,
+          0,
+          470,
+          170
+        ],
+        "variante_logo": "blanco"
+      }
+    },
+    {
+      "id": "PL-14A",
+      "archivo": "foto-sin-logo/PL-14A_protege-local-equipo.png",
+      "layout": "B",
+      "tamano": [
+        1080,
+        1350
+      ],
+      "texto_ok": true,
+      "zona_ok": true,
+      "candidatos": [
+        {
+          "force_pos": "arriba-izq",
+          "caja": [
+            150,
+            0,
+            530,
+            170
+          ],
+          "variante_logo": "color"
+        },
+        {
+          "force_pos": "arriba-centro",
+          "caja": [
+            360,
+            0,
+            740,
+            170
+          ],
+          "variante_logo": "color"
+        },
+        {
+          "force_pos": "arriba-der",
+          "caja": [
+            570,
+            0,
+            950,
+            170
+          ],
+          "variante_logo": "color"
+        }
+      ],
+      "seleccion_logo": {
+        "force_pos": "arriba-izq",
+        "caja": [
+          150,
+          0,
+          530,
+          170
+        ],
+        "variante_logo": "color"
+      }
+    },
+    {
+      "id": "PL-15A",
+      "archivo": "foto-sin-logo/PL-15A_confianza-con-atencion.png",
+      "layout": "C",
+      "tamano": [
+        1080,
+        1350
+      ],
+      "texto_ok": true,
+      "zona_ok": true,
+      "candidatos": [
+        {
+          "force_pos": "abajo-der",
+          "caja": [
+            690,
+            1170,
+            1070,
+            1340
+          ],
+          "variante_logo": "blanco"
+        },
+        {
+          "force_pos": "abajo-centro",
+          "caja": [
+            450,
+            1170,
+            830,
+            1340
+          ],
+          "variante_logo": "blanco"
+        },
+        {
+          "force_pos": "abajo-izq",
+          "caja": [
+            90,
+            1170,
+            470,
+            1340
+          ],
+          "variante_logo": "blanco"
+        }
+      ],
+      "seleccion_logo": {
+        "force_pos": "abajo-der",
+        "caja": [
+          690,
+          1170,
+          1070,
+          1340
+        ],
+        "variante_logo": "blanco"
+      }
+    },
+    {
+      "id": "PL-16A",
+      "archivo": "foto-sin-logo/PL-16A_mas-que-una-poliza.png",
+      "layout": "D",
+      "tamano": [
+        1080,
+        1350
+      ],
+      "texto_ok": true,
+      "zona_ok": true,
+      "candidatos": [
+        {
+          "force_pos": "arriba-izq",
+          "caja": [
+            0,
+            0,
+            380,
+            170
+          ],
+          "variante_logo": "color"
+        },
+        {
+          "force_pos": "arriba-centro",
+          "caja": [
+            390,
+            0,
+            770,
+            170
+          ],
+          "variante_logo": "color"
+        },
+        {
+          "force_pos": "arriba-der",
+          "caja": [
+            600,
+            0,
+            980,
+            170
+          ],
+          "variante_logo": "color"
+        }
+      ],
+      "seleccion_logo": {
+        "force_pos": "arriba-izq",
+        "caja": [
+          0,
+          0,
+          380,
+          170
+        ],
+        "variante_logo": "color"
+      }
+    },
+    {
+      "id": "PL-17A",
+      "archivo": "foto-sin-logo/PL-17A_pagando-demasiado.png",
+      "layout": "A",
+      "tamano": [
+        1080,
+        1350
+      ],
+      "texto_ok": true,
+      "zona_ok": true,
+      "candidatos": [
+        {
+          "force_pos": "arriba-izq",
+          "caja": [
+            60,
+            0,
+            440,
+            170
+          ],
+          "variante_logo": "blanco"
+        },
+        {
+          "force_pos": "arriba-centro",
+          "caja": [
+            270,
+            0,
+            650,
+            170
+          ],
+          "variante_logo": "blanco"
+        },
+        {
+          "force_pos": "arriba-centro",
+          "caja": [
+            480,
+            0,
+            860,
+            170
+          ],
+          "variante_logo": "blanco"
+        }
+      ],
+      "seleccion_logo": {
+        "force_pos": "arriba-izq",
+        "caja": [
+          60,
+          0,
+          440,
+          170
+        ],
+        "variante_logo": "blanco"
+      }
+    },
+    {
+      "id": "PL-18A",
+      "archivo": "foto-sin-logo/PL-18A_entender-tu-poliza.png",
+      "layout": "B",
+      "tamano": [
+        1080,
+        1350
+      ],
+      "texto_ok": true,
+      "zona_ok": true,
+      "candidatos": [
+        {
+          "force_pos": "arriba-centro",
+          "caja": [
+            240,
+            0,
+            620,
+            170
+          ],
+          "variante_logo": "color"
+        },
+        {
+          "force_pos": "arriba-centro",
+          "caja": [
+            450,
+            0,
+            830,
+            170
+          ],
+          "variante_logo": "color"
+        },
+        {
+          "force_pos": "arriba-der",
+          "caja": [
+            660,
+            0,
+            1040,
+            170
+          ],
+          "variante_logo": "color"
+        }
+      ],
+      "seleccion_logo": {
+        "force_pos": "arriba-centro",
+        "caja": [
+          240,
+          0,
+          620,
+          170
+        ],
+        "variante_logo": "color"
+      }
+    },
+    {
+      "id": "PL-19A",
+      "archivo": "foto-sin-logo/PL-19A_tu-equipo-patrimonio.png",
+      "layout": "C",
+      "tamano": [
+        1080,
+        1350
+      ],
+      "texto_ok": true,
+      "zona_ok": true,
+      "candidatos": [
+        {
+          "force_pos": "abajo-centro",
+          "caja": [
+            420,
+            1140,
+            800,
+            1310
+          ],
+          "variante_logo": "blanco"
+        },
+        {
+          "force_pos": "abajo-izq",
+          "caja": [
+            30,
+            1110,
+            410,
+            1280
+          ],
+          "variante_logo": "blanco"
+        }
+      ],
+      "seleccion_logo": {
+        "force_pos": "abajo-centro",
+        "caja": [
+          420,
+          1140,
+          800,
+          1310
+        ],
+        "variante_logo": "blanco"
+      }
+    },
+    {
+      "id": "PL-20A",
+      "archivo": "foto-sin-logo/PL-20A_tranquilidad-enfocarte-v2.png",
+      "layout": "D",
+      "tamano": [
+        1080,
+        1350
+      ],
+      "texto_ok": true,
+      "zona_ok": true,
+      "candidatos": [
+        {
+          "force_pos": "arriba-izq",
+          "caja": [
+            0,
+            0,
+            380,
+            170
+          ],
+          "variante_logo": "color"
+        },
+        {
+          "force_pos": "arriba-centro",
+          "caja": [
+            210,
+            0,
+            590,
+            170
+          ],
+          "variante_logo": "color"
+        },
+        {
+          "force_pos": "arriba-centro",
+          "caja": [
+            420,
+            0,
+            800,
+            170
+          ],
+          "variante_logo": "color"
+        }
+      ],
+      "seleccion_logo": {
+        "force_pos": "arriba-izq",
+        "caja": [
+          0,
+          0,
+          380,
+          170
+        ],
+        "variante_logo": "color"
+      }
+    }
+  ],
+  "texto_omitido": [],
+  "variaciones_A_autorizadas": true,
+  "logo_aplicado": false
+}

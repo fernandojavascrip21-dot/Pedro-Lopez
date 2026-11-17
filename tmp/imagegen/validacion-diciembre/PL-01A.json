@@ -1,0 +1,53 @@
+{
+  "archivo": "foto-sin-logo/PL-01A_agente-solo-renovar.png",
+  "tamano": [
+    1080,
+    1350
+  ],
+  "ok": true,
+  "nota": "layout A: franja 'arriba' libre",
+  "candidatos": [
+    {
+      "force_pos": "arriba-centro",
+      "caja": [
+        480,
+        0,
+        860,
+        170
+      ],
+      "desv_luma": 2.1,
+      "bordes_pct": 0.0,
+      "luminancia": 0.21,
+      "variante_logo": "blanco",
+      "libre": true
+    },
+    {
+      "force_pos": "arriba-centro",
+      "caja": [
+        270,
+        0,
+        650,
+        170
+      ],
+      "desv_luma": 2.5,
+      "bordes_pct": 0.0,
+      "luminancia": 0.21,
+      "variante_logo": "blanco",
+      "libre": true
+    },
+    {
+      "force_pos": "arriba-izq",
+      "caja": [
+        60,
+        0,
+        440,
+        170
+      ],
+      "desv_luma": 3.0,
+      "bordes_pct": 0.0,
+      "luminancia": 0.21,
+      "variante_logo": "blanco",
+      "libre": true
+    }
+  ]
+}

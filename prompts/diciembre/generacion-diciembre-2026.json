@@ -1,0 +1,1766 @@
+{
+  "PL-01A": {
+    "archivo": "foto-sin-logo/PL-01A_gmm-colectivo-equipo.png",
+    "tamano": [
+      1080,
+      1350
+    ],
+    "ok": true,
+    "nota": "layout A: franja 'arriba' libre",
+    "candidatos": [
+      {
+        "force_pos": "arriba-izq",
+        "caja": [
+          0,
+          0,
+          380,
+          170
+        ],
+        "desv_luma": 1.3,
+        "bordes_pct": 0.0,
+        "luminancia": 0.2,
+        "variante_logo": "blanco",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-centro",
+        "caja": [
+          210,
+          0,
+          590,
+          170
+        ],
+        "desv_luma": 1.5,
+        "bordes_pct": 0.0,
+        "luminancia": 0.2,
+        "variante_logo": "blanco",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-centro",
+        "caja": [
+          420,
+          0,
+          800,
+          170
+        ],
+        "desv_luma": 2.2,
+        "bordes_pct": 0.0,
+        "luminancia": 0.21,
+        "variante_logo": "blanco",
+        "libre": true
+      }
+    ],
+    "id": "PL-01A",
+    "layout": "A",
+    "texto_revisado": true,
+    "motor": "image_gen integrado",
+    "zonas_dos_logos": [
+      {
+        "force_pos": "arriba-izq",
+        "caja": [
+          0,
+          0,
+          380,
+          170
+        ],
+        "desv_luma": 1.3,
+        "bordes_pct": 0.0,
+        "luminancia": 0.2,
+        "variante_logo": "blanco",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-der",
+        "caja": [
+          600,
+          0,
+          980,
+          170
+        ],
+        "desv_luma": 3.7,
+        "bordes_pct": 0.0,
+        "luminancia": 0.22,
+        "variante_logo": "blanco",
+        "libre": true
+      }
+    ],
+    "dos_logos_ok": true
+  },
+  "PL-02A": {
+    "archivo": "foto-sin-logo/PL-02A_vida-grupo-familias.png",
+    "tamano": [
+      1080,
+      1350
+    ],
+    "ok": true,
+    "nota": "layout B: franja 'arriba' libre",
+    "candidatos": [
+      {
+        "force_pos": "arriba-der",
+        "caja": [
+          630,
+          0,
+          1010,
+          170
+        ],
+        "desv_luma": 1.3,
+        "bordes_pct": 0.0,
+        "luminancia": 0.81,
+        "variante_logo": "color",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-centro",
+        "caja": [
+          420,
+          0,
+          800,
+          170
+        ],
+        "desv_luma": 1.5,
+        "bordes_pct": 0.0,
+        "luminancia": 0.81,
+        "variante_logo": "color",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-centro",
+        "caja": [
+          210,
+          0,
+          590,
+          170
+        ],
+        "desv_luma": 2.4,
+        "bordes_pct": 0.0,
+        "luminancia": 0.8,
+        "variante_logo": "color",
+        "libre": true
+      }
+    ],
+    "id": "PL-02A",
+    "layout": "B",
+    "texto_revisado": true,
+    "motor": "image_gen integrado",
+    "zonas_dos_logos": [
+      {
+        "force_pos": "arriba-izq",
+        "caja": [
+          120,
+          0,
+          500,
+          170
+        ],
+        "desv_luma": 3.1,
+        "bordes_pct": 0.0,
+        "luminancia": 0.79,
+        "variante_logo": "color",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-der",
+        "caja": [
+          630,
+          0,
+          1010,
+          170
+        ],
+        "desv_luma": 1.3,
+        "bordes_pct": 0.0,
+        "luminancia": 0.81,
+        "variante_logo": "color",
+        "libre": true
+      }
+    ],
+    "dos_logos_ok": true
+  },
+  "PL-03A": {
+    "archivo": "foto-sin-logo/PL-03A_ap-laboral-casa-trabajo.png",
+    "tamano": [
+      1080,
+      1350
+    ],
+    "ok": true,
+    "nota": "layout C: franja 'abajo' libre",
+    "candidatos": [
+      {
+        "force_pos": "abajo-der",
+        "caja": [
+          660,
+          1170,
+          1040,
+          1340
+        ],
+        "desv_luma": 4.0,
+        "bordes_pct": 0.0,
+        "luminancia": 0.45,
+        "variante_logo": "revisar (blanco/color/negro)",
+        "libre": true
+      },
+      {
+        "force_pos": "abajo-centro",
+        "caja": [
+          450,
+          1170,
+          830,
+          1340
+        ],
+        "desv_luma": 4.4,
+        "bordes_pct": 0.0,
+        "luminancia": 0.48,
+        "variante_logo": "revisar (blanco/color/negro)",
+        "libre": true
+      },
+      {
+        "force_pos": "abajo-izq",
+        "caja": [
+          60,
+          1170,
+          440,
+          1340
+        ],
+        "desv_luma": 4.5,
+        "bordes_pct": 0.0,
+        "luminancia": 0.53,
+        "variante_logo": "revisar (blanco/color/negro)",
+        "libre": true
+      }
+    ],
+    "id": "PL-03A",
+    "layout": "C",
+    "texto_revisado": true,
+    "motor": "image_gen integrado",
+    "zonas_dos_logos": [
+      {
+        "force_pos": "abajo-izq",
+        "caja": [
+          60,
+          1170,
+          440,
+          1340
+        ],
+        "desv_luma": 4.5,
+        "bordes_pct": 0.0,
+        "luminancia": 0.53,
+        "variante_logo": "revisar (blanco/color/negro)",
+        "libre": true
+      },
+      {
+        "force_pos": "abajo-der",
+        "caja": [
+          660,
+          1170,
+          1040,
+          1340
+        ],
+        "desv_luma": 4.0,
+        "bordes_pct": 0.0,
+        "luminancia": 0.45,
+        "variante_logo": "revisar (blanco/color/negro)",
+        "libre": true
+      }
+    ],
+    "dos_logos_ok": true
+  },
+  "PL-04A": {
+    "archivo": "foto-sin-logo/PL-04A_telemedicina-24h.png",
+    "tamano": [
+      1080,
+      1350
+    ],
+    "ok": true,
+    "nota": "layout D: franja 'arriba' libre",
+    "candidatos": [
+      {
+        "force_pos": "arriba-centro",
+        "caja": [
+          390,
+          0,
+          770,
+          170
+        ],
+        "desv_luma": 1.2,
+        "bordes_pct": 0.0,
+        "luminancia": 0.85,
+        "variante_logo": "color",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-der",
+        "caja": [
+          690,
+          0,
+          1070,
+          170
+        ],
+        "desv_luma": 1.2,
+        "bordes_pct": 0.0,
+        "luminancia": 0.85,
+        "variante_logo": "color",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-centro",
+        "caja": [
+          180,
+          0,
+          560,
+          170
+        ],
+        "desv_luma": 1.7,
+        "bordes_pct": 0.0,
+        "luminancia": 0.85,
+        "variante_logo": "color",
+        "libre": true
+      }
+    ],
+    "id": "PL-04A",
+    "layout": "D",
+    "texto_revisado": true,
+    "motor": "image_gen integrado",
+    "zonas_dos_logos": [
+      {
+        "force_pos": "arriba-izq",
+        "caja": [
+          120,
+          0,
+          500,
+          170
+        ],
+        "desv_luma": 1.9,
+        "bordes_pct": 0.0,
+        "luminancia": 0.86,
+        "variante_logo": "color",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-der",
+        "caja": [
+          690,
+          0,
+          1070,
+          170
+        ],
+        "desv_luma": 1.2,
+        "bordes_pct": 0.0,
+        "luminancia": 0.85,
+        "variante_logo": "color",
+        "libre": true
+      }
+    ],
+    "dos_logos_ok": true
+  },
+  "PL-05A": {
+    "archivo": "foto-sin-logo/PL-05A_conexion-conversion.png",
+    "tamano": [
+      1080,
+      1350
+    ],
+    "ok": true,
+    "nota": "layout A: franja 'arriba' libre",
+    "candidatos": [
+      {
+        "force_pos": "arriba-izq",
+        "caja": [
+          0,
+          0,
+          380,
+          170
+        ],
+        "desv_luma": 1.5,
+        "bordes_pct": 0.0,
+        "luminancia": 0.19,
+        "variante_logo": "blanco",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-centro",
+        "caja": [
+          210,
+          0,
+          590,
+          170
+        ],
+        "desv_luma": 1.7,
+        "bordes_pct": 0.0,
+        "luminancia": 0.2,
+        "variante_logo": "blanco",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-centro",
+        "caja": [
+          420,
+          0,
+          800,
+          170
+        ],
+        "desv_luma": 1.9,
+        "bordes_pct": 0.0,
+        "luminancia": 0.2,
+        "variante_logo": "blanco",
+        "libre": true
+      }
+    ],
+    "id": "PL-05A",
+    "layout": "A",
+    "texto_revisado": true,
+    "motor": "image_gen integrado",
+    "zonas_dos_logos": [
+      {
+        "force_pos": "arriba-izq",
+        "caja": [
+          0,
+          0,
+          380,
+          170
+        ],
+        "desv_luma": 1.5,
+        "bordes_pct": 0.0,
+        "luminancia": 0.19,
+        "variante_logo": "blanco",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-der",
+        "caja": [
+          600,
+          0,
+          980,
+          170
+        ],
+        "desv_luma": 2.1,
+        "bordes_pct": 0.0,
+        "luminancia": 0.2,
+        "variante_logo": "blanco",
+        "libre": true
+      }
+    ],
+    "dos_logos_ok": true
+  },
+  "PL-06A": {
+    "archivo": "foto-sin-logo/PL-06A_equipo-electronico.png",
+    "tamano": [
+      1080,
+      1350
+    ],
+    "ok": true,
+    "nota": "layout B: franja 'arriba' libre",
+    "candidatos": [
+      {
+        "force_pos": "arriba-izq",
+        "caja": [
+          150,
+          0,
+          530,
+          170
+        ],
+        "desv_luma": 0.8,
+        "bordes_pct": 0.0,
+        "luminancia": 0.85,
+        "variante_logo": "color",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-centro",
+        "caja": [
+          360,
+          0,
+          740,
+          170
+        ],
+        "desv_luma": 0.9,
+        "bordes_pct": 0.0,
+        "luminancia": 0.85,
+        "variante_logo": "color",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-der",
+        "caja": [
+          570,
+          0,
+          950,
+          170
+        ],
+        "desv_luma": 1.3,
+        "bordes_pct": 0.0,
+        "luminancia": 0.85,
+        "variante_logo": "color",
+        "libre": true
+      }
+    ],
+    "id": "PL-06A",
+    "layout": "B",
+    "texto_revisado": true,
+    "motor": "image_gen integrado",
+    "zonas_dos_logos": [
+      {
+        "force_pos": "arriba-izq",
+        "caja": [
+          120,
+          0,
+          500,
+          170
+        ],
+        "desv_luma": 0.8,
+        "bordes_pct": 0.0,
+        "luminancia": 0.85,
+        "variante_logo": "color",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-der",
+        "caja": [
+          600,
+          0,
+          980,
+          170
+        ],
+        "desv_luma": 1.3,
+        "bordes_pct": 0.0,
+        "luminancia": 0.85,
+        "variante_logo": "color",
+        "libre": true
+      }
+    ],
+    "dos_logos_ok": true
+  },
+  "PL-07A": {
+    "archivo": "foto-sin-logo/PL-07A_equipo-contratistas-v2.png",
+    "tamano": [
+      1080,
+      1350
+    ],
+    "ok": true,
+    "nota": "layout C: franja 'abajo' libre",
+    "candidatos": [
+      {
+        "force_pos": "abajo-der",
+        "caja": [
+          690,
+          1170,
+          1070,
+          1340
+        ],
+        "desv_luma": 4.5,
+        "bordes_pct": 0.0,
+        "luminancia": 0.34,
+        "variante_logo": "blanco",
+        "libre": true
+      },
+      {
+        "force_pos": "abajo-centro",
+        "caja": [
+          480,
+          1170,
+          860,
+          1340
+        ],
+        "desv_luma": 5.3,
+        "bordes_pct": 0.0,
+        "luminancia": 0.35,
+        "variante_logo": "blanco",
+        "libre": true
+      },
+      {
+        "force_pos": "abajo-izq",
+        "caja": [
+          150,
+          1170,
+          530,
+          1340
+        ],
+        "desv_luma": 5.7,
+        "bordes_pct": 0.0,
+        "luminancia": 0.35,
+        "variante_logo": "blanco",
+        "libre": true
+      }
+    ],
+    "id": "PL-07A",
+    "layout": "C",
+    "texto_revisado": true,
+    "motor": "image_gen integrado",
+    "zonas_dos_logos": [
+      {
+        "force_pos": "abajo-izq",
+        "caja": [
+          120,
+          1170,
+          500,
+          1340
+        ],
+        "desv_luma": 5.7,
+        "bordes_pct": 0.0,
+        "luminancia": 0.35,
+        "variante_logo": "blanco",
+        "libre": true
+      },
+      {
+        "force_pos": "abajo-der",
+        "caja": [
+          690,
+          1170,
+          1070,
+          1340
+        ],
+        "desv_luma": 4.5,
+        "bordes_pct": 0.0,
+        "luminancia": 0.34,
+        "variante_logo": "blanco",
+        "libre": true
+      }
+    ],
+    "dos_logos_ok": true,
+    "ajuste_generacion": "Segundo intento: encuadre más abierto para dejar suelo libre debajo de la persona y la maquinaria; se eliminó la línea dorada."
+  },
+  "PL-08A": {
+    "archivo": "foto-sin-logo/PL-08A_rc-general.png",
+    "tamano": [
+      1080,
+      1350
+    ],
+    "ok": true,
+    "nota": "layout D: franja 'arriba' libre",
+    "candidatos": [
+      {
+        "force_pos": "arriba-izq",
+        "caja": [
+          60,
+          0,
+          440,
+          170
+        ],
+        "desv_luma": 3.0,
+        "bordes_pct": 0.0,
+        "luminancia": 0.75,
+        "variante_logo": "color",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-centro",
+        "caja": [
+          270,
+          0,
+          650,
+          170
+        ],
+        "desv_luma": 3.4,
+        "bordes_pct": 0.0,
+        "luminancia": 0.74,
+        "variante_logo": "color",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-centro",
+        "caja": [
+          480,
+          0,
+          860,
+          170
+        ],
+        "desv_luma": 5.0,
+        "bordes_pct": 0.0,
+        "luminancia": 0.73,
+        "variante_logo": "color",
+        "libre": true
+      }
+    ],
+    "id": "PL-08A",
+    "layout": "D",
+    "texto_revisado": true,
+    "motor": "image_gen integrado",
+    "zonas_dos_logos": [
+      {
+        "force_pos": "arriba-izq",
+        "caja": [
+          60,
+          0,
+          440,
+          170
+        ],
+        "desv_luma": 3.0,
+        "bordes_pct": 0.0,
+        "luminancia": 0.75,
+        "variante_logo": "color",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-der",
+        "caja": [
+          600,
+          0,
+          980,
+          170
+        ],
+        "desv_luma": 6.3,
+        "bordes_pct": 0.0,
+        "luminancia": 0.72,
+        "variante_logo": "color",
+        "libre": true
+      }
+    ],
+    "dos_logos_ok": true
+  },
+  "PL-09A": {
+    "archivo": "foto-sin-logo/PL-09A_rc-profesional.png",
+    "tamano": [
+      1080,
+      1350
+    ],
+    "ok": true,
+    "nota": "layout A: franja 'arriba' libre",
+    "candidatos": [
+      {
+        "force_pos": "arriba-izq",
+        "caja": [
+          60,
+          0,
+          440,
+          170
+        ],
+        "desv_luma": 2.1,
+        "bordes_pct": 0.0,
+        "luminancia": 0.18,
+        "variante_logo": "blanco",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-der",
+        "caja": [
+          690,
+          0,
+          1070,
+          170
+        ],
+        "desv_luma": 2.3,
+        "bordes_pct": 0.0,
+        "luminancia": 0.21,
+        "variante_logo": "blanco",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-centro",
+        "caja": [
+          450,
+          0,
+          830,
+          170
+        ],
+        "desv_luma": 2.4,
+        "bordes_pct": 0.0,
+        "luminancia": 0.21,
+        "variante_logo": "blanco",
+        "libre": true
+      }
+    ],
+    "id": "PL-09A",
+    "layout": "A",
+    "texto_revisado": true,
+    "motor": "image_gen integrado",
+    "zonas_dos_logos": [
+      {
+        "force_pos": "arriba-izq",
+        "caja": [
+          60,
+          0,
+          440,
+          170
+        ],
+        "desv_luma": 2.1,
+        "bordes_pct": 0.0,
+        "luminancia": 0.18,
+        "variante_logo": "blanco",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-der",
+        "caja": [
+          690,
+          0,
+          1070,
+          170
+        ],
+        "desv_luma": 2.3,
+        "bordes_pct": 0.0,
+        "luminancia": 0.21,
+        "variante_logo": "blanco",
+        "libre": true
+      }
+    ],
+    "dos_logos_ok": true
+  },
+  "PL-10A": {
+    "archivo": "foto-sin-logo/PL-10A_cyber-opcional.png",
+    "tamano": [
+      1080,
+      1350
+    ],
+    "ok": true,
+    "nota": "layout B: franja 'arriba' libre",
+    "candidatos": [
+      {
+        "force_pos": "arriba-der",
+        "caja": [
+          690,
+          0,
+          1070,
+          170
+        ],
+        "desv_luma": 0.9,
+        "bordes_pct": 0.0,
+        "luminancia": 0.86,
+        "variante_logo": "color",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-centro",
+        "caja": [
+          240,
+          0,
+          620,
+          170
+        ],
+        "desv_luma": 1.0,
+        "bordes_pct": 0.0,
+        "luminancia": 0.85,
+        "variante_logo": "color",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-izq",
+        "caja": [
+          30,
+          0,
+          410,
+          170
+        ],
+        "desv_luma": 1.2,
+        "bordes_pct": 0.0,
+        "luminancia": 0.85,
+        "variante_logo": "color",
+        "libre": true
+      }
+    ],
+    "id": "PL-10A",
+    "layout": "B",
+    "texto_revisado": true,
+    "motor": "image_gen integrado",
+    "zonas_dos_logos": [
+      {
+        "force_pos": "arriba-izq",
+        "caja": [
+          60,
+          0,
+          440,
+          170
+        ],
+        "desv_luma": 1.2,
+        "bordes_pct": 0.0,
+        "luminancia": 0.85,
+        "variante_logo": "color",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-der",
+        "caja": [
+          690,
+          0,
+          1070,
+          170
+        ],
+        "desv_luma": 0.9,
+        "bordes_pct": 0.0,
+        "luminancia": 0.86,
+        "variante_logo": "color",
+        "libre": true
+      }
+    ],
+    "dos_logos_ok": true
+  },
+  "PL-11A": {
+    "archivo": "foto-sin-logo/PL-11A_seguro-de-socios-v2.png",
+    "tamano": [
+      1080,
+      1350
+    ],
+    "ok": true,
+    "nota": "layout C: franja 'abajo' libre",
+    "candidatos": [
+      {
+        "force_pos": "abajo-izq",
+        "caja": [
+          0,
+          1170,
+          380,
+          1340
+        ],
+        "desv_luma": 3.5,
+        "bordes_pct": 0.0,
+        "luminancia": 0.22,
+        "variante_logo": "blanco",
+        "libre": true
+      },
+      {
+        "force_pos": "abajo-centro",
+        "caja": [
+          210,
+          1170,
+          590,
+          1340
+        ],
+        "desv_luma": 5.3,
+        "bordes_pct": 0.0,
+        "luminancia": 0.24,
+        "variante_logo": "blanco",
+        "libre": true
+      },
+      {
+        "force_pos": "abajo-centro",
+        "caja": [
+          510,
+          1170,
+          890,
+          1340
+        ],
+        "desv_luma": 8.9,
+        "bordes_pct": 0.0,
+        "luminancia": 0.29,
+        "variante_logo": "blanco",
+        "libre": true
+      }
+    ],
+    "id": "PL-11A",
+    "layout": "C",
+    "texto_revisado": true,
+    "motor": "image_gen integrado",
+    "zonas_dos_logos": [
+      {
+        "force_pos": "abajo-izq",
+        "caja": [
+          0,
+          1170,
+          380,
+          1340
+        ],
+        "desv_luma": 3.5,
+        "bordes_pct": 0.0,
+        "luminancia": 0.22,
+        "variante_logo": "blanco",
+        "libre": true
+      },
+      {
+        "force_pos": "abajo-der",
+        "caja": [
+          600,
+          1170,
+          980,
+          1340
+        ],
+        "desv_luma": 9.8,
+        "bordes_pct": 0.0,
+        "luminancia": 0.28,
+        "variante_logo": "blanco",
+        "libre": true
+      }
+    ],
+    "dos_logos_ok": true,
+    "ajuste_generacion": "Segundo intento: asesor al otro lado de la mesa y superficie de madera libre en el borde inferior; se eliminó la línea dorada."
+  },
+  "PL-12A": {
+    "archivo": "foto-sin-logo/PL-12A_tecnicos-dirigentes.png",
+    "tamano": [
+      1080,
+      1350
+    ],
+    "ok": true,
+    "nota": "layout D: franja 'arriba' libre",
+    "candidatos": [
+      {
+        "force_pos": "arriba-centro",
+        "caja": [
+          240,
+          0,
+          620,
+          170
+        ],
+        "desv_luma": 2.5,
+        "bordes_pct": 0.0,
+        "luminancia": 0.82,
+        "variante_logo": "color",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-centro",
+        "caja": [
+          450,
+          0,
+          830,
+          170
+        ],
+        "desv_luma": 2.8,
+        "bordes_pct": 0.0,
+        "luminancia": 0.82,
+        "variante_logo": "color",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-der",
+        "caja": [
+          660,
+          0,
+          1040,
+          170
+        ],
+        "desv_luma": 3.2,
+        "bordes_pct": 0.0,
+        "luminancia": 0.81,
+        "variante_logo": "color",
+        "libre": true
+      }
+    ],
+    "id": "PL-12A",
+    "layout": "D",
+    "texto_revisado": true,
+    "motor": "image_gen integrado",
+    "zonas_dos_logos": [
+      {
+        "force_pos": "arriba-izq",
+        "caja": [
+          120,
+          0,
+          500,
+          170
+        ],
+        "desv_luma": 2.7,
+        "bordes_pct": 0.0,
+        "luminancia": 0.82,
+        "variante_logo": "color",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-der",
+        "caja": [
+          630,
+          0,
+          1010,
+          170
+        ],
+        "desv_luma": 3.1,
+        "bordes_pct": 0.0,
+        "luminancia": 0.81,
+        "variante_logo": "color",
+        "libre": true
+      }
+    ],
+    "dos_logos_ok": true
+  },
+  "PL-13A": {
+    "archivo": "foto-sin-logo/PL-13A_impulsa-talento.png",
+    "tamano": [
+      1080,
+      1350
+    ],
+    "ok": true,
+    "nota": "layout A: franja 'arriba' libre",
+    "candidatos": [
+      {
+        "force_pos": "arriba-centro",
+        "caja": [
+          300,
+          0,
+          680,
+          170
+        ],
+        "desv_luma": 1.8,
+        "bordes_pct": 0.0,
+        "luminancia": 0.3,
+        "variante_logo": "blanco",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-centro",
+        "caja": [
+          510,
+          0,
+          890,
+          170
+        ],
+        "desv_luma": 2.2,
+        "bordes_pct": 0.0,
+        "luminancia": 0.3,
+        "variante_logo": "blanco",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-izq",
+        "caja": [
+          90,
+          0,
+          470,
+          170
+        ],
+        "desv_luma": 2.5,
+        "bordes_pct": 0.0,
+        "luminancia": 0.29,
+        "variante_logo": "blanco",
+        "libre": true
+      }
+    ],
+    "id": "PL-13A",
+    "layout": "A",
+    "texto_revisado": true,
+    "motor": "image_gen integrado",
+    "zonas_dos_logos": [
+      {
+        "force_pos": "arriba-izq",
+        "caja": [
+          120,
+          0,
+          500,
+          170
+        ],
+        "desv_luma": 2.3,
+        "bordes_pct": 0.0,
+        "luminancia": 0.29,
+        "variante_logo": "blanco",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-der",
+        "caja": [
+          600,
+          0,
+          980,
+          170
+        ],
+        "desv_luma": 2.3,
+        "bordes_pct": 0.0,
+        "luminancia": 0.3,
+        "variante_logo": "blanco",
+        "libre": true
+      }
+    ],
+    "dos_logos_ok": true
+  },
+  "PL-14A": {
+    "archivo": "foto-sin-logo/PL-14A_salud-en-vida.png",
+    "tamano": [
+      1080,
+      1350
+    ],
+    "ok": true,
+    "nota": "layout B: franja 'arriba' libre",
+    "candidatos": [
+      {
+        "force_pos": "arriba-centro",
+        "caja": [
+          390,
+          0,
+          770,
+          170
+        ],
+        "desv_luma": 1.9,
+        "bordes_pct": 0.0,
+        "luminancia": 0.79,
+        "variante_logo": "color",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-der",
+        "caja": [
+          600,
+          0,
+          980,
+          170
+        ],
+        "desv_luma": 2.1,
+        "bordes_pct": 0.0,
+        "luminancia": 0.79,
+        "variante_logo": "color",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-centro",
+        "caja": [
+          180,
+          0,
+          560,
+          170
+        ],
+        "desv_luma": 3.4,
+        "bordes_pct": 0.0,
+        "luminancia": 0.78,
+        "variante_logo": "color",
+        "libre": true
+      }
+    ],
+    "id": "PL-14A",
+    "layout": "B",
+    "texto_revisado": true,
+    "motor": "image_gen integrado",
+    "zonas_dos_logos": [
+      {
+        "force_pos": "arriba-izq",
+        "caja": [
+          120,
+          0,
+          500,
+          170
+        ],
+        "desv_luma": 3.6,
+        "bordes_pct": 0.0,
+        "luminancia": 0.78,
+        "variante_logo": "color",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-der",
+        "caja": [
+          600,
+          0,
+          980,
+          170
+        ],
+        "desv_luma": 2.1,
+        "bordes_pct": 0.0,
+        "luminancia": 0.79,
+        "variante_logo": "color",
+        "libre": true
+      }
+    ],
+    "dos_logos_ok": true
+  },
+  "PL-15A": {
+    "archivo": "foto-sin-logo/PL-15A_retiro-planeado-v2.png",
+    "tamano": [
+      1080,
+      1350
+    ],
+    "ok": true,
+    "nota": "layout C: franja 'abajo' libre",
+    "candidatos": [
+      {
+        "force_pos": "abajo-izq",
+        "caja": [
+          0,
+          1170,
+          380,
+          1340
+        ],
+        "desv_luma": 3.7,
+        "bordes_pct": 0.0,
+        "luminancia": 0.28,
+        "variante_logo": "blanco",
+        "libre": true
+      },
+      {
+        "force_pos": "abajo-centro",
+        "caja": [
+          510,
+          1170,
+          890,
+          1340
+        ],
+        "desv_luma": 4.7,
+        "bordes_pct": 0.05,
+        "luminancia": 0.31,
+        "variante_logo": "blanco",
+        "libre": true
+      },
+      {
+        "force_pos": "abajo-centro",
+        "caja": [
+          210,
+          1170,
+          590,
+          1340
+        ],
+        "desv_luma": 5.5,
+        "bordes_pct": 0.22,
+        "luminancia": 0.29,
+        "variante_logo": "blanco",
+        "libre": true
+      }
+    ],
+    "id": "PL-15A",
+    "layout": "C",
+    "texto_revisado": true,
+    "motor": "image_gen integrado",
+    "zonas_dos_logos": [
+      {
+        "force_pos": "abajo-izq",
+        "caja": [
+          0,
+          1170,
+          380,
+          1340
+        ],
+        "desv_luma": 3.7,
+        "bordes_pct": 0.0,
+        "luminancia": 0.28,
+        "variante_logo": "blanco",
+        "libre": true
+      },
+      {
+        "force_pos": "abajo-der",
+        "caja": [
+          600,
+          1170,
+          980,
+          1340
+        ],
+        "desv_luma": 4.8,
+        "bordes_pct": 0.05,
+        "luminancia": 0.31,
+        "variante_logo": "blanco",
+        "libre": true
+      }
+    ],
+    "dos_logos_ok": true,
+    "ajuste_generacion": "Segundo intento: dueño de cuerpo completo y piso natural visible. Las zonas útiles están en los extremos inferiores; evitar la zona central de los zapatos."
+  },
+  "PL-16A": {
+    "archivo": "foto-sin-logo/PL-16A_vida-grupo-escolar.png",
+    "tamano": [
+      1080,
+      1350
+    ],
+    "ok": true,
+    "nota": "layout D: franja 'arriba' libre",
+    "candidatos": [
+      {
+        "force_pos": "arriba-izq",
+        "caja": [
+          150,
+          0,
+          530,
+          170
+        ],
+        "desv_luma": 1.3,
+        "bordes_pct": 0.0,
+        "luminancia": 0.83,
+        "variante_logo": "color",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-centro",
+        "caja": [
+          360,
+          0,
+          740,
+          170
+        ],
+        "desv_luma": 1.7,
+        "bordes_pct": 0.0,
+        "luminancia": 0.82,
+        "variante_logo": "color",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-der",
+        "caja": [
+          600,
+          0,
+          980,
+          170
+        ],
+        "desv_luma": 2.1,
+        "bordes_pct": 0.0,
+        "luminancia": 0.82,
+        "variante_logo": "color",
+        "libre": true
+      }
+    ],
+    "id": "PL-16A",
+    "layout": "D",
+    "texto_revisado": true,
+    "motor": "image_gen integrado",
+    "zonas_dos_logos": [
+      {
+        "force_pos": "arriba-izq",
+        "caja": [
+          120,
+          0,
+          500,
+          170
+        ],
+        "desv_luma": 1.3,
+        "bordes_pct": 0.0,
+        "luminancia": 0.83,
+        "variante_logo": "color",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-der",
+        "caja": [
+          600,
+          0,
+          980,
+          170
+        ],
+        "desv_luma": 2.1,
+        "bordes_pct": 0.0,
+        "luminancia": 0.82,
+        "variante_logo": "color",
+        "libre": true
+      }
+    ],
+    "dos_logos_ok": true
+  },
+  "PL-17A": {
+    "archivo": "foto-sin-logo/PL-17A_vida-grupo-deudor.png",
+    "tamano": [
+      1080,
+      1350
+    ],
+    "ok": true,
+    "nota": "layout A: franja 'arriba' libre",
+    "candidatos": [
+      {
+        "force_pos": "arriba-centro",
+        "caja": [
+          210,
+          0,
+          590,
+          170
+        ],
+        "desv_luma": 1.8,
+        "bordes_pct": 0.0,
+        "luminancia": 0.2,
+        "variante_logo": "blanco",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-der",
+        "caja": [
+          660,
+          0,
+          1040,
+          170
+        ],
+        "desv_luma": 2.2,
+        "bordes_pct": 0.0,
+        "luminancia": 0.23,
+        "variante_logo": "blanco",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-izq",
+        "caja": [
+          0,
+          0,
+          380,
+          170
+        ],
+        "desv_luma": 2.5,
+        "bordes_pct": 0.0,
+        "luminancia": 0.19,
+        "variante_logo": "blanco",
+        "libre": true
+      }
+    ],
+    "id": "PL-17A",
+    "layout": "A",
+    "texto_revisado": true,
+    "motor": "image_gen integrado",
+    "zonas_dos_logos": [
+      {
+        "force_pos": "arriba-izq",
+        "caja": [
+          120,
+          0,
+          500,
+          170
+        ],
+        "desv_luma": 2.0,
+        "bordes_pct": 0.0,
+        "luminancia": 0.2,
+        "variante_logo": "blanco",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-der",
+        "caja": [
+          660,
+          0,
+          1040,
+          170
+        ],
+        "desv_luma": 2.2,
+        "bordes_pct": 0.0,
+        "luminancia": 0.23,
+        "variante_logo": "blanco",
+        "libre": true
+      }
+    ],
+    "dos_logos_ok": true
+  },
+  "PL-18A": {
+    "archivo": "foto-sin-logo/PL-18A_ap-deportivo.png",
+    "tamano": [
+      1080,
+      1350
+    ],
+    "ok": true,
+    "nota": "layout B: franja 'arriba' libre",
+    "candidatos": [
+      {
+        "force_pos": "arriba-der",
+        "caja": [
+          630,
+          0,
+          1010,
+          170
+        ],
+        "desv_luma": 1.1,
+        "bordes_pct": 0.0,
+        "luminancia": 0.89,
+        "variante_logo": "color",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-centro",
+        "caja": [
+          240,
+          0,
+          620,
+          170
+        ],
+        "desv_luma": 1.2,
+        "bordes_pct": 0.0,
+        "luminancia": 0.89,
+        "variante_logo": "color",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-izq",
+        "caja": [
+          30,
+          0,
+          410,
+          170
+        ],
+        "desv_luma": 1.4,
+        "bordes_pct": 0.0,
+        "luminancia": 0.9,
+        "variante_logo": "color",
+        "libre": true
+      }
+    ],
+    "id": "PL-18A",
+    "layout": "B",
+    "texto_revisado": true,
+    "motor": "image_gen integrado",
+    "zonas_dos_logos": [
+      {
+        "force_pos": "arriba-izq",
+        "caja": [
+          90,
+          0,
+          470,
+          170
+        ],
+        "desv_luma": 1.2,
+        "bordes_pct": 0.0,
+        "luminancia": 0.89,
+        "variante_logo": "color",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-der",
+        "caja": [
+          630,
+          0,
+          1010,
+          170
+        ],
+        "desv_luma": 1.1,
+        "bordes_pct": 0.0,
+        "luminancia": 0.89,
+        "variante_logo": "color",
+        "libre": true
+      }
+    ],
+    "dos_logos_ok": true
+  },
+  "PL-19A": {
+    "archivo": "foto-sin-logo/PL-19A_cotizar-es-sencillo-v2.png",
+    "tamano": [
+      1080,
+      1350
+    ],
+    "ok": true,
+    "nota": "layout C: franja 'abajo' libre",
+    "candidatos": [
+      {
+        "force_pos": "abajo-centro",
+        "caja": [
+          270,
+          1170,
+          650,
+          1340
+        ],
+        "desv_luma": 2.7,
+        "bordes_pct": 0.0,
+        "luminancia": 0.33,
+        "variante_logo": "blanco",
+        "libre": true
+      },
+      {
+        "force_pos": "abajo-izq",
+        "caja": [
+          0,
+          1170,
+          380,
+          1340
+        ],
+        "desv_luma": 2.9,
+        "bordes_pct": 0.0,
+        "luminancia": 0.31,
+        "variante_logo": "blanco",
+        "libre": true
+      },
+      {
+        "force_pos": "abajo-centro",
+        "caja": [
+          480,
+          1170,
+          860,
+          1340
+        ],
+        "desv_luma": 3.7,
+        "bordes_pct": 0.0,
+        "luminancia": 0.35,
+        "variante_logo": "blanco",
+        "libre": true
+      }
+    ],
+    "id": "PL-19A",
+    "layout": "C",
+    "texto_revisado": true,
+    "motor": "image_gen integrado",
+    "zonas_dos_logos": [
+      {
+        "force_pos": "abajo-izq",
+        "caja": [
+          0,
+          1170,
+          380,
+          1340
+        ],
+        "desv_luma": 2.9,
+        "bordes_pct": 0.0,
+        "luminancia": 0.31,
+        "variante_logo": "blanco",
+        "libre": true
+      },
+      {
+        "force_pos": "abajo-der",
+        "caja": [
+          600,
+          1170,
+          980,
+          1340
+        ],
+        "desv_luma": 5.1,
+        "bordes_pct": 0.0,
+        "luminancia": 0.37,
+        "variante_logo": "revisar (blanco/color/negro)",
+        "libre": true
+      }
+    ],
+    "dos_logos_ok": true,
+    "ajuste_generacion": "Segundo intento: plano más abierto con mesa gris continua en primer plano, sin fundido artificial; se eliminó la línea dorada."
+  },
+  "PL-20A": {
+    "archivo": "foto-sin-logo/PL-20A_mas-que-una-poliza.png",
+    "tamano": [
+      1080,
+      1350
+    ],
+    "ok": true,
+    "nota": "layout D: franja 'arriba' libre",
+    "candidatos": [
+      {
+        "force_pos": "arriba-izq",
+        "caja": [
+          30,
+          0,
+          410,
+          170
+        ],
+        "desv_luma": 1.9,
+        "bordes_pct": 0.0,
+        "luminancia": 0.77,
+        "variante_logo": "color",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-centro",
+        "caja": [
+          240,
+          0,
+          620,
+          170
+        ],
+        "desv_luma": 2.0,
+        "bordes_pct": 0.0,
+        "luminancia": 0.77,
+        "variante_logo": "color",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-centro",
+        "caja": [
+          450,
+          0,
+          830,
+          170
+        ],
+        "desv_luma": 2.9,
+        "bordes_pct": 0.0,
+        "luminancia": 0.76,
+        "variante_logo": "color",
+        "libre": true
+      }
+    ],
+    "id": "PL-20A",
+    "layout": "D",
+    "texto_revisado": true,
+    "motor": "image_gen integrado",
+    "zonas_dos_logos": [
+      {
+        "force_pos": "arriba-izq",
+        "caja": [
+          30,
+          0,
+          410,
+          170
+        ],
+        "desv_luma": 1.9,
+        "bordes_pct": 0.0,
+        "luminancia": 0.77,
+        "variante_logo": "color",
+        "libre": true
+      },
+      {
+        "force_pos": "arriba-der",
+        "caja": [
+          600,
+          0,
+          980,
+          170
+        ],
+        "desv_luma": 3.3,
+        "bordes_pct": 0.0,
+        "luminancia": 0.74,
+        "variante_logo": "color",
+        "libre": true
+      }
+    ],
+    "dos_logos_ok": true
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "archivo": "foto-sin-logo/PL-02A_comparar-proteccion-equipo.png",
+  "tamano": [
+    1080,
+    1350
+  ],
+  "ok": true,
+  "nota": "layout B: franja 'arriba' libre",
+  "candidatos": [
+    {
+      "force_pos": "arriba-der",
+      "caja": [
+        690,
+        0,
+        1070,
+        170
+      ],
+      "desv_luma": 1.5,
+      "bordes_pct": 0.0,
+      "luminancia": 0.89,
+      "variante_logo": "color",
+      "libre": true
+    },
+    {
+      "force_pos": "arriba-centro",
+      "caja": [
+        480,
+        0,
+        860,
+        170
+      ],
+      "desv_luma": 1.7,
+      "bordes_pct": 0.0,
+      "luminancia": 0.89,
+      "variante_logo": "color",
+      "libre": true
+    },
+    {
+      "force_pos": "arriba-centro",
+      "caja": [
+        270,
+        0,
+        650,
+        170
+      ],
+      "desv_luma": 2.4,
+      "bordes_pct": 0.0,
+      "luminancia": 0.89,
+      "variante_logo": "color",
+      "libre": true
+    }
+  ]
+}
